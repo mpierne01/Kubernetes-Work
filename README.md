@@ -1,4 +1,4 @@
-# kubernetes_demo2
+# kubernetes_demo
 
 # Centralized Logging
 - logging in kubernetes
